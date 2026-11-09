@@ -21,7 +21,7 @@ Copy this folder to your Codex skills directory as `yuketang-grading`, then star
 
 ## Source and attribution
 
-This skill is based on the user's pre-existing locally installed Codex skill named `yuketang-grading`. The local copy contained no upstream repository URL, author attribution, or license metadata, so its earlier upstream origin cannot be verified. This repository identifies that local file as its baseline and does not claim authorship of the original skill.
+The [originally installed Rain Classroom skill](ORIGINAL_SKILL.md) is archived here so the starting point of this supplement can be inspected. It was created locally for the user on 2026-11-04 with Codex's `skill-creator` initializer and then filled in with Rain Classroom grading guidance. It was **not installed from an external GitHub repository**. The current [SKILL.md](SKILL.md) extends that local skill with the grading details learned later. The archived text contains general instructions only; no student work is included.
 
 ## Privacy
 
@@ -29,5 +29,5 @@ This release contains reusable workflow guidance only. It excludes student names
 
 ## License
 
-No license is declared because the original skill's license could not be verified. Public availability does not grant permission to redistribute or relicense the original material beyond this attributed adaptation.
+No license has been declared for this repository.
 
