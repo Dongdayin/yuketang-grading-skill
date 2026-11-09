@@ -55,5 +55,5 @@ description: Use when the user asks to review or grade subjective assignments in
 
 ## 来源与致谢
 
-本 skill 以用户本机原先安装的同名 `yuketang-grading` skill 为基线，并在此基础上补充本次使用中确认的通用批改偏好。原始本地文件未提供上游仓库、作者或许可证信息，因此无法核实更早的来源；发布时应如实注明这一点，不应把原始 skill 的作者或许可写成已知。
+本 skill 以 2026-11-04 在用户本机创建并安装的同名 `yuketang-grading` skill 为基线，在此基础上补充后续批改中确认的通用规则。[最初安装版本的归档](ORIGINAL_SKILL.md)可供对照。该版本由 Codex 的 `skill-creator` 初始化后编写，并非从外部 GitHub 仓库安装；不要将网上的同名项目误写为来源。
 
